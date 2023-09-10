@@ -1,0 +1,15 @@
+{
+  "name": "react-playground",
+  "version": "1.0.0",
+  "description": "https://www.youtube.com/watch?v=P3aKRdUyr0s\r # Module bundlers and Webpack\r     https://www.youtube.com/watch?v=b99ze6u56V4\r     https://www.youtube.com/watch?v=y50eOq-83lA\r     https://www.youtube.com/watch?v=iOYO2dKBYow\r     https://www.youtube.com/watch?v=1ka721x8Vao\r     https://www.youtube.com/watch?v=5IG4UmULyoA\r # Babel\r     https://www.youtube.com/watch?v=o9hmjdmJLMU\r # React setup\r     https://www.youtube.com/watch?v=QliwSwWHJoQ\r \thttps://www.youtube.com/watch?v=h3LpsM42s5o\r     https://dev.to/deepanjangh/react-setup-with-webpack-for-beginners-2a8k\r     https://dev.to/deepanjangh/setting-up-css-and-sass-with-webpack-3cg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
+}
