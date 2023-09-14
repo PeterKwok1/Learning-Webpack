@@ -3,9 +3,9 @@
 # Module bundlers and Webpack
     https://www.youtube.com/watch?v=b99ze6u56V4 - Done 
     https://www.youtube.com/watch?v=y50eOq-83lA - Done
-    https://www.youtube.com/watch?v=iOYO2dKBYow - Return to do example after installing webpack dev server
-    https://www.youtube.com/watch?v=1ka721x8Vao
-    https://www.youtube.com/watch?v=5IG4UmULyoA
+    https://www.youtube.com/watch?v=iOYO2dKBYow - Return to do example after installing webpack dev server ~
+    https://www.youtube.com/watch?v=1ka721x8Vao ~
+    https://www.youtube.com/watch?v=5IG4UmULyoA - start over
 # Babel
     https://www.youtube.com/watch?v=o9hmjdmJLMU
 # React setup
@@ -14,3 +14,6 @@
     https://dev.to/deepanjangh/react-setup-with-webpack-for-beginners-2a8k
     https://dev.to/deepanjangh/setting-up-css-and-sass-with-webpack-3cg
 
+# Interest
+    Typescript
+    Code splitting
