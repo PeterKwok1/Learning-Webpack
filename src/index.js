@@ -1,10 +1,8 @@
-// import { camelCase } from "lodash";
-const path = require('path')
-// import { dirname, default as path } from 'path'
+import './style.scss'
 
-// console.log(camelCase('hellow world'))
+import { camelCase } from "lodash";
+console.log(camelCase('hello world'))
 
-console.log(module, "sdf")
-
-
-console.log(path.resolve(__dirname, 'dist'), 'sdflh')
+import * as util from "./util.js";
+util.test()
+util.test2()
