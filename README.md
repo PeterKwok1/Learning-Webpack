@@ -3,10 +3,10 @@
 # Module bundlers and Webpack
     https://www.youtube.com/watch?v=b99ze6u56V4 - Done 
     https://www.youtube.com/watch?v=y50eOq-83lA - Done
-    https://www.youtube.com/watch?v=iOYO2dKBYow - Return to do example after installing webpack dev server ~
+    https://www.youtube.com/watch?v=iOYO2dKBYow ~ Do example after installing webpack dev server
     https://www.youtube.com/watch?v=1ka721x8Vao ~
-    https://www.youtube.com/watch?v=5IG4UmULyoA - start over
-    https://www.youtube.com/watch?v=MpGLUVbqoYQ - freecodecamp
+    https://www.youtube.com/watch?v=5IG4UmULyoA - Done, but webpack dev server doesn't work
+    https://www.youtube.com/watch?v=MpGLUVbqoYQ (freecodecamp) - started
 # Babel
     https://www.youtube.com/watch?v=o9hmjdmJLMU
 # React setup
@@ -22,4 +22,4 @@
     etc. youtube freecodecamp redux
 # Interest
     Typescript
-    Code splitting
+    Code splitting 
