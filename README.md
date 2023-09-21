@@ -6,12 +6,13 @@
     https://www.youtube.com/watch?v=iOYO2dKBYow ~ Do example after installing webpack dev server
     https://www.youtube.com/watch?v=1ka721x8Vao ~
     https://www.youtube.com/watch?v=5IG4UmULyoA - Done, but webpack dev server doesn't work
-    https://www.youtube.com/watch?v=MpGLUVbqoYQ - 8:20
-        Review git to follow code along commits
-            Git checkout, reset, revert
-                https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting#:~:text=Checking%20out%20a%20file%20is,you%20won't%20switch%20branches.
-            https://www.youtube.com/watch?v=HvDjbAa9ZsY
-            Do own example
+    https://www.youtube.com/watch?v=MpGLUVbqoYQ - 13:19
+        Review git to follow code along commits - Done
+            https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting
+                Learned 
+                    working tree is directory
+                    git reset, checkout, revert
+                    change is relative to stage
     https://www.youtube.com/watch?v=TOb1c39m64A&list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z&index=6
     https://www.youtube.com/watch?v=IZGNcSuwBZs&t=305s
 
