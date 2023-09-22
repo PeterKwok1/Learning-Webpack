@@ -6,7 +6,7 @@
     https://www.youtube.com/watch?v=iOYO2dKBYow ~ Do example after installing webpack dev server
     https://www.youtube.com/watch?v=1ka721x8Vao ~
     https://www.youtube.com/watch?v=5IG4UmULyoA - Done, but webpack dev server doesn't work
-    https://www.youtube.com/watch?v=MpGLUVbqoYQ - 13:19
+    https://www.youtube.com/watch?v=MpGLUVbqoYQ - 20:36
         Review git to follow code along commits - Done
             https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting
                 Learned 
