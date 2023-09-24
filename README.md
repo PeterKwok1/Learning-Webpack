@@ -1,14 +1,14 @@
 # npm
     https://www.youtube.com/watch?v=P3aKRdUyr0s - Done 
-# Module bundlers and Webpack
-    https://www.youtube.com/watch?v=y50eOq-83lA - Done
-    https://www.youtube.com/watch?v=MpGLUVbqoYQ - 1:34:44
+# Webpack
+    https://www.youtube.com/watch?v=y50eOq-83lA ~ Done
+    https://www.youtube.com/watch?v=MpGLUVbqoYQ - Own example: 11:26
         Git for code along
             https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting - Done
                 working tree is directory
                 git reset, checkout, revert
                 change is relative to stage
-        Haven't gotten webpack dev server to work. Heard web serve is the new version. 
+        Haven't gotten webpack dev server to work. 
     https://www.youtube.com/watch?v=TOb1c39m64A&list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z&index=6
     https://www.youtube.com/watch?v=IZGNcSuwBZs&t=305s
 
@@ -28,6 +28,5 @@
 # Topics of Interest
     Typescript
         I heard Colt Steele's courses are excellent.
-    Code splitting 
     Advanced git
         https://www.youtube.com/watch?v=Uszj_k0DGsg
