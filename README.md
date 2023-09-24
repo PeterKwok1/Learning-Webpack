@@ -1,11 +1,8 @@
 # npm
     https://www.youtube.com/watch?v=P3aKRdUyr0s - Done 
 # Module bundlers and Webpack
-    https://www.youtube.com/watch?v=b99ze6u56V4 - Done 
-        existence of file and http protocol 
     https://www.youtube.com/watch?v=y50eOq-83lA - Done
-        context
-    https://www.youtube.com/watch?v=MpGLUVbqoYQ - 59:20
+    https://www.youtube.com/watch?v=MpGLUVbqoYQ - 1:34:44
         Git for code along
             https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting - Done
                 working tree is directory
