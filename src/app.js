@@ -1,20 +1,16 @@
-const input = document.querySelector('input')
-const table = document.querySelectorAll('tbody tr')
-input.addEventListener('keyup', (e) => {
-    const value = e.target.value.toLowerCase()
-    for (let i = 0; i < table.length; i++) {
-        if (table[i].textContent.toLowerCase().includes(value)) {
-            table[i].setAttribute('style', 'display: auto')
-        } else {
-            table[i].setAttribute('style', 'display: none')
-        }
-    }
+
+
+const inputTag = document.querySelector('#input')
+const addTag = document.querySelector('#add')
+const subtractTag = document.querySelector('#subtract')
+const submitTag = document.querySelector('#submit')
+const equalsTag = document.querySelector('#equals')
+
+submitTag.addEventListener('click', (e) => {
+    e.preventDefault()
+    value = inputTag.value
+    value = add(value, addTag)
+    value = subtract(value, subtractTag)
+    equalsTag.textContent = `Equals: ${value}`
 })
 
-// Jquery
-// $("#myInput").on("keyup", function() {
-//     var value = $(this).val().toLowerCase();
-//     $("#myTable tr").filter(function() {
-//       $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1)
-//     });
-//   });
