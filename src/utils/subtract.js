@@ -4,7 +4,7 @@ class SubtractService {
         this.tag = document.querySelector('#subtract')
     }
     subtract(value) {
-        return value - this.tag.value
+        return value - Number(this.tag.value)
     }
 }
 

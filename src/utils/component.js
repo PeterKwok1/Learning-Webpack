@@ -1,4 +1,5 @@
-
+const addService = new AddService()
+const subtractService = new SubtractService()
 
 class ComponentService {
     constructor() {
@@ -9,7 +10,7 @@ class ComponentService {
     onClick() {
         this.submit.addEventListener('click', (e) => {
             e.preventDefault()
-            value = this.input.value
+            let value = Number(this.input.value)
             value = addService.add(value)
             value = subtractService.subtract(value)
             this.equals.textContent = `Equals: ${value}`
