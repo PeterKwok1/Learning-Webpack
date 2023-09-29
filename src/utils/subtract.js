@@ -1,5 +1,5 @@
 
-class SubtractService {
+export class SubtractService {
     constructor() {
         this.tag = document.querySelector('#subtract')
     }

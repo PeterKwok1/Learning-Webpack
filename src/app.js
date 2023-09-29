@@ -1,7 +1,5 @@
-const componentService = new ComponentService()
 
-const run = (componentService) => {
+export const run = (componentService) => {
     componentService.onClick()
 }
 
-run(componentService)

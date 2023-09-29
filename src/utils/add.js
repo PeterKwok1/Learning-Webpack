@@ -1,5 +1,5 @@
 
-class AddService {
+export class AddService {
     constructor() {
         this.tag = document.querySelector('#add')
     }

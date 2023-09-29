@@ -1,7 +1,10 @@
+import { AddService } from "./add"
+import { SubtractService } from "./subtract"
+
 const addService = new AddService()
 const subtractService = new SubtractService()
 
-class ComponentService {
+export class ComponentService {
     constructor() {
         this.submit = document.querySelector('#submit')
         this.input = document.querySelector('#input')
