@@ -2,7 +2,7 @@
     https://www.youtube.com/watch?v=P3aKRdUyr0s - Done 
 # Webpack
     https://www.youtube.com/watch?v=y50eOq-83lA ~ Done
-    https://www.youtube.com/watch?v=MpGLUVbqoYQ - Own example: 17:44
+    https://www.youtube.com/watch?v=MpGLUVbqoYQ - Own example: 38:55
         Practiced functional coding. 
         Haven't gotten webpack dev server to work. 
         Test Jquery

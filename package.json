@@ -5,7 +5,7 @@
   "description": "https://www.youtube.com/watch?v=P3aKRdUyr0s - Done \r # Webpack\r     https://www.youtube.com/watch?v=y50eOq-83lA ~ Done\r     https://www.youtube.com/watch?v=MpGLUVbqoYQ - Own example: 13:15\r         Practiced functional coding. \r         Haven't gotten webpack dev server to work. \r         Test Jquery\r     https://www.youtube.com/watch?v=TOb1c39m64A&list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z&index=6\r     https://www.youtube.com/watch?v=IZGNcSuwBZs&t=305s",
   "main": "index.js",
   "scripts": {
-    "start": "webpack"
+    "start": "webpack --config webpack.config.js"
   },
   "keywords": [],
   "author": "",
