@@ -2,7 +2,7 @@
     https://www.youtube.com/watch?v=P3aKRdUyr0s - Done 
 # Webpack
     https://www.youtube.com/watch?v=y50eOq-83lA ~ Done
-    https://www.youtube.com/watch?v=MpGLUVbqoYQ - Own example: 1:28:17
+    https://www.youtube.com/watch?v=MpGLUVbqoYQ - Own example: 1:30:14
         html-loader docs, asset modules
         Can I return a unexported referenced function out of an exported function. 
         Test Jquery
