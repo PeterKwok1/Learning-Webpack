@@ -5,5 +5,3 @@ import "./main.scss"
 const componentService = new ComponentService()
 
 run(componentService)
-
-console.log("Hi")

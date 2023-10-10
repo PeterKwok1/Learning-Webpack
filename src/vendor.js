@@ -1,1 +1,1 @@
-alert(("Hi from vendor"))
+import 'bootstrap';
