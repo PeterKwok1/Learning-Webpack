@@ -10,5 +10,13 @@ module.exports = merge(common, {
         filename: "[name].[contenthash].bundle.js",
         path: path.resolve(__dirname, "dist")
     },
-    plugins: [new MiniCssExtractPlugin(), new CleanWebpackPlugin()]
+    plugins: [new MiniCssExtractPlugin({ filename: "[name].[contentHash].css" }), new CleanWebpackPlugin()],
+    modules: {
+        rules: [
+            {
+                test: /\.scss$/,
+                use: ["style-loader", "css-loader", "sass-loader"]
+            },
+        ]
+    }
 })
