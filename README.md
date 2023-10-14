@@ -2,7 +2,7 @@
     https://www.youtube.com/watch?v=P3aKRdUyr0s - Done 
 # Webpack
     https://www.youtube.com/watch?v=y50eOq-83lA ~ Done
-    https://www.youtube.com/watch?v=MpGLUVbqoYQ - Own example: 1:41:22
+    https://www.youtube.com/watch?v=MpGLUVbqoYQ - Own example: 1:48:01
         html-loader docs, asset modules
         Follow the correct version docs
         bootstrap 5 doesn't need Jquery
