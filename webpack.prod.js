@@ -17,7 +17,10 @@ module.exports = merge(common, {
         new CleanWebpackPlugin(),
         new HtmlWebpackPlugin({
             template: "./src/template.html",
-            minify: false
+            minify: {
+                collapseWhitespace: false,
+                removeComments: true
+            }
         })
     ],
     module: {
