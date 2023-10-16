@@ -20,7 +20,7 @@ module.exports = merge(common, {
             minify: {
                 collapseWhitespace: false,
                 removeComments: true
-            }
+            },
         })
     ],
     module: {

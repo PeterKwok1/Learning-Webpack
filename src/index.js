@@ -10,4 +10,3 @@ import $ from "jquery"
 const testTag = $('#test')
 testTag.text('jQuery works!')
 testTag.text('update works!')
-
